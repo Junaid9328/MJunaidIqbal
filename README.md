@@ -1,5 +1,1 @@
-Random Cards Pick using Python
-Using "Random" package 
-Create Just one function 
-choose random cards and ranks
-print function
+[Readme.txt](https://github.com/Junaid9328/MJunaidIqbal/files/8693870/Readme.txt)
